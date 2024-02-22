@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+}
+
+.box-grid {
+  margin: 20px;
+}
+
+.container {
+  margin: 15px;
+}
+
+.row {
+  height: 50px;
+  grid-gap: 20px;
+}
+
+.col {
+  height: 40px;
+}
+
+.button {
+  display: grid;
+  justify-items: end
+}
+
+.textarea{
+  margin-bottom: 10px;
+}
+
+input {
+  border: 1px solid black;
+}
+.form-control#exampleInputEmail1 {
+  border: 3px solid black;
+}
+.form-control#floatingTextarea {
+  border: 3px solid black;
+}
