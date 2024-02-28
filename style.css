@@ -885,4 +885,7 @@ input {
 
 .form-extention{
   background-color: aqua;
+  color: #ffffff;
+  width: auto;
+  height: 450px;
 }
